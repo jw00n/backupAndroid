@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Ex220302</string>
+
+    <!-- activity 5 -->
+    <string name="btnWebView">웹 페이지보기</string>
+    <string name="btnCamera">카메라 호출</string>
+    <string name="btnDial">전화 다이얼</string>
+    <string name="btnCall">전화걸기</string>
+
+    <string name="btnMain">Next으로 이동</string>
+    <string name="btnNext">메인으로 이동</string>
+
+    <string name="tvMain">Mainactivity 화면</string>
+    <string name="tvNext">Nextactivity 화면</string>
+
+    <!-- main 7 -->
+    <string name="btnMain4">Main4로 이동</string>
+
+    <!--ctrl shift /-->
+    <!--main8-->
+    <string name="btnFinish">main4 종료</string>
+
+
+    <!--activity board.wml-->
+    <string name="tvUserid">글작성은 로그인후 가능합니다.</string>
+    <string name="btnWrite">글작성</string>
+    <string name="btnLoginMove">로그인</string>
+    <string name="tvBoard">게시판</string>
+
+    <string-array name="List">
+        <item>1. Android 어렵다</item>
+        <item>2. 강의실이 어디에요</item>
+        <item>3. 집 보내줘</item>
+        <item>4. 교수님 과제 너무하시네</item>
+    </string-array>
+
+    <!--activity _ login-->
+    <string name="btnLogin">로그인</string>
+</resources>

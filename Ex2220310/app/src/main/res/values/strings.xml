@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex2220310</string>
+
+    <string name="tvRank">영화순위</string>
+    <string name="tvMovieNm">영화명</string>
+    <string name="tvOpenDt">개봉일</string>
+    <string name="tvAudiAcc">누적관객수</string>
+    <string name="tvDescription">줄거리</string>
+
+</resources>

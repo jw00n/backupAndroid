@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex220319</string>
+
+
+    <!--로그인 액티비티-->
+    <string name="title">Talk App</string>
+    <string name="login">LOGIN</string>
+    <string name="id">아이디</string>
+    <string name="pw">비밀번호</string>
+</resources>

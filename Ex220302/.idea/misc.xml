@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_board.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_main3.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_main4.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_main5.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_main6.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_main7.xml" value="0.22" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_main8.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_next.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/activity_resylt.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/ex01.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/exam04.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/exam05.xml" value="0.18" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/layout/exam06.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Ex220302/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.156" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#9C27B0"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+
+        </Button>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#FFEB3B"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+
+        </Button>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#0000FF"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+            <!--테마 사용중이라 backgroundTint로
+         -->
+        </Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#9C27B0"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+
+        </Button>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#FFEB3B"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+
+        </Button>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#0000FF"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+            <!--테마 사용중이라 backgroundTint로
+         -->
+        </Button>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#9C27B0"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+
+        </Button>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#FFEB3B"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+
+        </Button>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#0000FF"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+            <!--테마 사용중이라 backgroundTint로
+         -->
+        </Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#9C27B0"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+
+        </Button>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#FFEB3B"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+
+        </Button>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="#0000FF"
+            android:insetTop="0dp"
+            android:insetBottom="0dp">
+
+        </Button>
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="안녕하세요" />
+    </LinearLayout>
+
+
+
+</LinearLayout>
+
